@@ -1,0 +1,158 @@
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\bin\Debug\OTEL254.exe.config
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\bin\Debug\OTEL254.exe
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\bin\Debug\OTEL254.pdb
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.csprojResolveAssemblyReference.cache
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.Properties.Resources.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.csproj.GenerateResource.Cache
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.exe
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.pdb
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.giris.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.main.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.programHK.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\bin\Debug\OTEL254.exe.config
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.exe
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.pdb
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\bin\Debug\OTEL254.exe
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\bin\Debug\OTEL254.pdb
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.csprojResolveAssemblyReference.cache
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.giris.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.main.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.programHK.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.Properties.Resources.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.csproj.GenerateResource.Cache
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.miniOda.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.miniMusteri.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.miniRezervasyon.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.miniTel.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.miniKayitlar.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254_Backup\OTEL254\obj\Debug\OTEL254.miniProgramHK.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniProgramHK.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniTel.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniKayitlar.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniMusteri.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniOda.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniRezervasyon.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.profil.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.ayarlar.resources
+C:\Users\pc\Ali Köklü\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.odalar.resources
+D:\Ali\myProjects\OTEL254\OTEL254\bin\Debug\OTEL254.exe.config
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.exe
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.pdb
+D:\Ali\myProjects\OTEL254\OTEL254\bin\Debug\OTEL254.exe
+D:\Ali\myProjects\OTEL254\OTEL254\bin\Debug\OTEL254.pdb
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.csprojResolveAssemblyReference.cache
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.ayarlar.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniProgramHK.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniTel.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniKayitlar.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniMusteri.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniOda.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.giris.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.main.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.miniRezervasyon.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.odalar.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.profil.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.programHK.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.Properties.Resources.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.csproj.GenerateResource.Cache
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.odaBilgisi.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.musteriler.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.kullanicilar.resources
+D:\Ali\myProjects\OTEL254\OTEL254\obj\Debug\OTEL254.musteriEkle.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\bin\Debug\OTEL254.exe.config
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.exe
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.pdb
+D:\Ali\myProjects\OTEL254_New\OTEL254\bin\Debug\OTEL254.exe
+D:\Ali\myProjects\OTEL254_New\OTEL254\bin\Debug\OTEL254.pdb
+D:\Ali\myProjects\OTEL254_New\OTEL254\bin\Debug\veriT.pdb
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.csprojResolveAssemblyReference.cache
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.ayarlar.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.kullanicilar.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniTel.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniKayitlar.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniMusteri.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniOda.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.giris.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.main.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniRezervasyon.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.musteriEkle.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.musteriler.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.odaBilgisi.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.odalar.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.profil.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.programHK.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.Properties.Resources.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.csproj.GenerateResource.Cache
+D:\Ali\myProjects\OTEL254_New\OTEL254\bin\Debug\veriT.dll
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.yetki.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniProgramHK.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.telefonlar.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.rezervasyonlar.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.kayitlar.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.surumNotlari.resources
+D:\Ali\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.odaAyarlari.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\bin\Debug\OTEL254.exe.config
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\bin\Debug\OTEL254.exe
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\bin\Debug\OTEL254.pdb
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\bin\Debug\veriT.dll
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\bin\Debug\veriT.pdb
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.csprojResolveAssemblyReference.cache
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.ayarlar.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.kayitlar.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniProgramHK.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.kullanicilar.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniTel.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniKayitlar.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniMusteri.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniOda.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.giris.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.main.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniRezervasyon.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.musteriEkle.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.musteriler.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.odaAyarlari.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.odaBilgisi.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.odalar.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.profil.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.programHK.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.Properties.Resources.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.rezervasyonlar.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.surumNotlari.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.telefonlar.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.yetki.resources
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.csproj.GenerateResource.Cache
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.exe
+C:\Users\W7X\Desktop\Ali Köklü\myProjects\OTEL254_New\OTEL254\obj\Debug\OTEL254.pdb
+C:\Users\X\Desktop\OTEL254_New\OTEL254\bin\Debug\OTEL254.exe.config
+C:\Users\X\Desktop\OTEL254_New\OTEL254\bin\Debug\OTEL254.exe
+C:\Users\X\Desktop\OTEL254_New\OTEL254\bin\Debug\OTEL254.pdb
+C:\Users\X\Desktop\OTEL254_New\OTEL254\bin\Debug\veriT.pdb
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.csprojAssemblyReference.cache
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.ayarlar.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.kayitlar.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniProgramHK.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.kullanicilar.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniTel.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniKayitlar.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniMusteri.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniOda.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.giris.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.main.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.miniRezervasyon.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.musteriEkle.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.musteriler.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.odaAyarlari.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.odaBilgisi.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.odalar.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.profil.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.programHK.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.Properties.Resources.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.rezervasyonlar.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.surumNotlari.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.telefonlar.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.yetki.resources
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.csproj.GenerateResource.cache
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.csproj.CopyComplete
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.exe
+C:\Users\X\Desktop\OTEL254_New\OTEL254\obj\Debug\OTEL254.pdb

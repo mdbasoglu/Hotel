@@ -1,0 +1,98 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows;
+using System.Data.OleDb;
+
+namespace veriT
+{
+    public class degiskenler
+    {
+        /* Bu .dll dosyası Ali KÖKLÜ tarafından hazırlanmıştır. 
+         * Sosyal medya adresleri
+         * Facebook     : www.facebook.com/alikoklu254
+         * Twitter      : www.twitter.com/alikoklu254
+         * İnstagram    : www.instagram.com/alikoklu254
+         * Web site     : www.projevekod.com
+         */
+        // OLEDB nesnelerimiz 
+        public static OleDbConnection baglan;
+        /* Programda ilk formun loadına bağlantıyı sağlayan veritabanımızı belirtiyoruz.
+         * veriT.degiskenler.baglan = new OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + Application.StartupPath.ToString() + "\\veriTabaniAdiniGiriniz.mdb");
+         */
+        public static OleDbCommand komut;
+        public static OleDbDataAdapter adaptor;
+        public static OleDbDataReader oku;
+        public static DataSet ds = new DataSet();
+    }
+
+    public class islemler
+    {
+        public static void bagKontrol() { if (degiskenler.baglan.State == ConnectionState.Closed) degiskenler.baglan.Open(); } // Eğer bağlantı kapalıysa aç bağlantı açıksa br işlem yapma.
+        public static void kosulsuzVeriGetir(string sorgu)
+        {
+            /* Örnek kullanım şekli
+             * veriT.islemler.kosulsuzVeriGetir("Select * from tabloAdi");
+             * while(veriT.degiskenler.oku.Read()) { string degerBurayaGelecek = veriT.degiskenler.oku["sütunAdiniGirmenizGerekli"].ToString(); }
+             * veriT.degiskenler.baglan.Close();
+             * */
+            bagKontrol(); // Bağlantı kontrolü
+            degiskenler.komut = new OleDbCommand(sorgu, degiskenler.baglan); // Sorguda ki tablo verilerini getir.
+            degiskenler.oku = degiskenler.komut.ExecuteReader(); // Bilgileri oku
+        }
+
+        public static void kosulluVeriGetir(OleDbCommand komut)
+        {
+            /* Örnek kullanım şekli
+             * degiskenler.komut = new OleDbCommand("Select * from tabloAdi where kosul1=@kosul1 and kosul2=@kosul2", veriT.degiskenler.baglan);
+             * degiskenler.komut.Parameters.Add("@kosul1", kosulaGelecekDeger1);
+             * degiskenler.komut.Parameters.Add("@kosul2", kosulaGelecekDeger2);
+             * veriT.islemler.kosulluVeriGetir(degiskenler.komut);
+             * while(veriT.degiskenler.oku.Read()) { string degerBurayaGelecek = veriT.degiskenler.oku["sütunAdiniGirmenizGerekli"].ToString(); }
+             * veriT.degiskenler.baglan.Close();
+             * */
+            bagKontrol(); // Bağlantı kontrolü
+            degiskenler.komut = komut;
+            degiskenler.oku = degiskenler.komut.ExecuteReader(); // Bilgileri oku
+        }
+
+        public static void veriEkle(string tabloAdi, string tabloAlanlari, string yeniDegerler)
+        {
+            /* Örnek kullanım şekli
+            * veriT.islemler.VeriEkle("tabloAdı", "alanBir,alanIki,alanUc,AlanDort","'" + gelecekDeger1 + "','" + gelecekDeger2 + "','" + gelecekDeger3 + "','" + gelecekDeger4 + "'");
+            */
+            bagKontrol(); // Bağlantı kontrolü
+            degiskenler.komut = new OleDbCommand("insert into " + tabloAdi + "(" + tabloAlanlari + ") VALUES (" + yeniDegerler + ")", degiskenler.baglan); // Sorguda ki tablo verilerini ekle.
+            degiskenler.komut.ExecuteNonQuery(); // Bilgileri yaz.
+            degiskenler.baglan.Close(); // Bağlantıyı kapat.
+        }
+
+        public static void varsaKosulluVeriGuncelle(string tabloAdi, string degistirilenler, string varsaKosul)
+        {
+            /* Örnek kullanım şekli
+             * veriT.islemler.varsaKosulluVeriGuncelle("tabloAdi", "degistirilenSütun1 = '" + degistirilecekDeger1 + "',degistirilenSütun2 = '" + degistirilecekDeger2 + "'",""); // kosulsuz veri güncelleme
+             * veriT.islemler.varsaKosulluVeriGuncelle("tabloAdi", "degistirilenSütun1 = '" + degistirilecekDeger1 + "',degistirilenSütun2 = '" + degistirilecekDeger2 + "'","kosul1SütunAdi = '" + kosul1eGelecekDeger + "' and kosul2SütunAdi='" + kosul2yeGelecekDeger +"'"); // koşullu veri güncelleme
+             * */
+            bagKontrol(); // Bağlantı kontrolü
+            degiskenler.komut = new OleDbCommand("UPDATE " + tabloAdi + " SET " + degistirilenler + ((varsaKosul == "") ? varsaKosul : " where " + varsaKosul), degiskenler.baglan); // Sorguda ki tablo verilerini düzenle.
+            degiskenler.komut.ExecuteNonQuery(); // Bilgileri güncelle.
+            degiskenler.baglan.Close(); // Bağlantıyı kapat.
+        }
+
+        public static void kosulluVeriSil(OleDbCommand komut)
+        {
+            /* Örnek kullanım şekli
+             * veriT.degiskenler.komut = new OleDbCommand("Delete * from tabloAdi where kosul1=@kosul1 and kosul2=@kosul2", veriT.degiskenler.baglan);
+             * veriT.degiskenler.komut.Parameters.Add("@kosul1", kosulaGelecekDeger1);
+             * veriT.degiskenler.komut.Parameters.Add("@kosul2", kosulaGelecekDeger2);
+             * veriT.islemler.kosulluVeriSil(veriT.degiskenler.komut);
+             * */
+            bagKontrol(); // Bağlantı kontrolü
+            degiskenler.komut.ExecuteNonQuery(); // Bilgileri sil.
+            degiskenler.baglan.Close(); // Bağlantıyı kapat.
+        }
+    }
+}

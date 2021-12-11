@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E5DFB216-0806-45FE-A7A8-5D4B02815A06}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OTEL254</RootNamespace>
+    <AssemblyName>OTEL254</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="veriT, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\veriT\veriT\bin\Debug\veriT.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayarlar.Designer.cs">
+      <DependentUpon>ayarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kayitlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kayitlar.Designer.cs">
+      <DependentUpon>kayitlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="miniProgramHK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="miniProgramHK.Designer.cs">
+      <DependentUpon>miniProgramHK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odaAyarlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="odaAyarlari.Designer.cs">
+      <DependentUpon>odaAyarlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="programAyarlari.cs" />
+    <Compile Include="kullanicilar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanicilar.Designer.cs">
+      <DependentUpon>kullanicilar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="miniTel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="miniTel.Designer.cs">
+      <DependentUpon>miniTel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="miniKayitlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="miniKayitlar.Designer.cs">
+      <DependentUpon>miniKayitlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="miniMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="miniMusteri.Designer.cs">
+      <DependentUpon>miniMusteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="miniOda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="miniOda.Designer.cs">
+      <DependentUpon>miniOda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="miniRezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="miniRezervasyon.Designer.cs">
+      <DependentUpon>miniRezervasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriEkle.Designer.cs">
+      <DependentUpon>musteriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriler.Designer.cs">
+      <DependentUpon>musteriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odaBilgisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="odaBilgisi.Designer.cs">
+      <DependentUpon>odaBilgisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="odalar.Designer.cs">
+      <DependentUpon>odalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="profil.Designer.cs">
+      <DependentUpon>profil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="programHK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="programHK.Designer.cs">
+      <DependentUpon>programHK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rezervasyonlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rezervasyonlar.Designer.cs">
+      <DependentUpon>rezervasyonlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="surumNotlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="surumNotlari.Designer.cs">
+      <DependentUpon>surumNotlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telefonlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telefonlar.Designer.cs">
+      <DependentUpon>telefonlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yetki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yetki.Designer.cs">
+      <DependentUpon>yetki.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ayarlar.resx">
+      <DependentUpon>ayarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kayitlar.resx">
+      <DependentUpon>kayitlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="miniProgramHK.resx">
+      <DependentUpon>miniProgramHK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanicilar.resx">
+      <DependentUpon>kullanicilar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="miniTel.resx">
+      <DependentUpon>miniTel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="miniKayitlar.resx">
+      <DependentUpon>miniKayitlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="miniMusteri.resx">
+      <DependentUpon>miniMusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="miniOda.resx">
+      <DependentUpon>miniOda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="miniRezervasyon.resx">
+      <DependentUpon>miniRezervasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriEkle.resx">
+      <DependentUpon>musteriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriler.resx">
+      <DependentUpon>musteriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odaAyarlari.resx">
+      <DependentUpon>odaAyarlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odaBilgisi.resx">
+      <DependentUpon>odaBilgisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odalar.resx">
+      <DependentUpon>odalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profil.resx">
+      <DependentUpon>profil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="programHK.resx">
+      <DependentUpon>programHK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rezervasyonlar.resx">
+      <DependentUpon>rezervasyonlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="surumNotlari.resx">
+      <DependentUpon>surumNotlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telefonlar.resx">
+      <DependentUpon>telefonlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yetki.resx">
+      <DependentUpon>yetki.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baslik.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kapat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kayitlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musteriler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\programhk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rezervasyon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telefon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proje-ve-kod-projevekod-csharp-projeleri-oyunlari-dersleri-ornekleri-small-logo-2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
